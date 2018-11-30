@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>	HomeWork3	</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<!-- start main div> -->
+<div class="main">
+    <!-- start header> -->
+    <div class="header">
+    	My name is Denis Hisamutdinov
+    </div>
+    <!-- end header -->
+    <!-- start sm -->
+    <div class="sm">
+    	<a href="#">	<img src="img/smile.jpg" alt="smile" width="62" height="62">	</a>
+    </div>
+    <!-- end sm -->
+    <!-- start text -->
+    <div class="text">
+    	I am a Front-end Developer, graduate of	<br>
+Internet Technology, and author of CSS3 Foundations.	<br>
+I have 8 years commercial experience working	<br>
+with clients from around the world, providing	<br>	 
+responsive front-end development	<br>
+    </div>
+    <!-- end text -->
+    <!-- start ul -->
+    <div class="ul">
+    	<ul>
+    		<li>	Responsive Websites		</li>
+    		<li>	Front-end development	</li>
+    		<li>	HTML 					</li>
+    		<li>	CSS 					</li>
+    		<li>	JavaScript				</li>
+    		<li>	jQuery					</li>
+    		<li>	CSS Animation			</li>
+    	</ul>
+    </div>
+    <!-- end ul -->
+    <!-- start web -->
+    <div class="web">
+    	My web pages :
+    </div>
+    <!-- end web -->
+    <!-- start sn -->
+    <div class="sn">
+    	    <a href="https://vk.com/">				<img src="img/vk.jpg" alt="vkontakte" width="23" height="23">	</a>
+    	    <a href="https://www.facebook.com/">	<img src="img/fb.jpg" alt="facebook" width="23" height="23">	</a>
+    	    <a href="https://www.linkedin.com/">	<img src="img/li.jpg" alt="lindedin" width="23" height="23">	</a>
+    </div>
+    <!-- end sn -->
+    <!-- start ye -->
+    <div class="ye">
+    	Your email
+    </div>
+    <!-- end ye -->
+    <!-- start form -->
+    <form>
+    	<textarea name="email" placeholder="email" class="mail"></textarea>
+    </form>
+    <!-- end form -->
+    <!-- start yq -->
+    <div class="yq">
+    	Your questions
+    </div>
+    <!-- start form -->
+    <form>
+    	<textarea name="question" placeholder="text" class="comments"></textarea>
+    	<button><img src="img/sml.jpg" alt="send"></button>    
+    </form>
+    <!-- end form -->
+    </div>
+    <!-- end main div -->	
+</body>
+</html>
