@@ -1,0 +1,113 @@
+*	{
+	box-sizing: border-box;
+}
+body	{
+	background-color: #eeeeee;
+}
+.main	{
+	width: 489px;
+	border: 3px solid black;
+	margin: auto;
+	background-color: #ffffff;
+}
+.header    {
+	background-color: #668ef3;
+	font-family: arial;
+	font-variant: small-caps;
+	font-size: 24px;
+	color: #ffffff;
+	padding-left: 23px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	font-stretch: semi-expanded;
+	letter-spacing: -0.05em;
+}
+.sm 	{
+	padding-left: 17px;
+	padding-top: 15px;
+	padding-bottom: 17px;
+}
+.text 	{
+	font-family: arial;
+	font-size: 14px;
+	font-stretch: semi-expanded;
+	padding-left: 15px;
+	font-variant: small-caps;
+	color: #002222;
+}
+.ul		{
+    font-family: arial;
+	font-size: 14px;
+	font-stretch: semi-expanded;
+	font-variant: small-caps;
+	color: #002222;
+}
+.web	{
+	font-family: arial;
+	font-size: 24px;
+	letter-spacing: -0.05em;
+	font-stretch: semi-expanded;
+	padding-left: 14px;
+	color: #222222;
+}
+a 		{
+	text-decoration: none;
+}
+.sn 	{
+	padding-left: 16px;
+	padding-top: 15px;
+}
+.sn a 	{
+	margin-right: 23px;
+	width: 23px;
+	height: 23px;
+	border: none;
+}
+.ye	{
+	font-family: arial;
+	font-size: 24px;
+	letter-spacing: -0.05em;
+	font-stretch: semi-expanded;
+	padding-top: 12px;
+	padding-left: 14px;
+	color: #222222;
+}
+.mail	{
+	height: 29px;
+    margin-bottom: 0;
+    resize: none;
+    width: 450px;
+    margin-bottom: 15px;
+    background: #f7f6f6;
+}
+form	{
+	padding-left: 15px;
+	padding-top: 19px;
+}
+.yq		{
+	font-family: arial;
+	font-size: 24px;
+	letter-spacing: -0.05em;
+	font-stretch: semi-expanded;
+	padding-top: 17px;
+	padding-left: 14px;
+	color: #222222;
+}
+.comments	{
+	height: 82px;
+    margin-bottom: 0;
+    resize: none;
+    width: 450px;
+    margin-bottom: 15px;
+    background: #f7f6f6;
+}
+button		{
+	width: 150px;
+    height: 23px;
+    padding: 0;
+    border: 0;
+    position: relative;
+    left: 299px;
+    top: 4px;
+    margin-bottom: 11px;
+}
